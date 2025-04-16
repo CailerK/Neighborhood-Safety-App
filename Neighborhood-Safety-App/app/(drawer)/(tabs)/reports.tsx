@@ -182,6 +182,7 @@ export default function ReportScreen() {
   return imageMatch && typeMatch && startMatch && endMatch;
 });
 
+
 return (
     <View style={styles.container}>
       <Text style={styles.title}>Reports</Text>
